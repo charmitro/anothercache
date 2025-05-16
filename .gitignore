@@ -1,0 +1,22 @@
+.ccls-cache/
+
+# Build artifacts
+obj/
+bin/
+
+# Executable
+mcache
+
+# Object files
+*.o
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Debug files
+*.dSYM/
+core
+lib/
